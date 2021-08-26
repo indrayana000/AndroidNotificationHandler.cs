@@ -1,4 +1,3 @@
-//ga error tapi ga bisa drag n drop di inspector main menunya
 //this script don't inherit a native class that can manage a cript
 
 using System.Collections;
