@@ -1,3 +1,5 @@
+//ga error tapi ga bisa drag n drop di inspector main menunya
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
